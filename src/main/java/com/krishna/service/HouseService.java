@@ -1,7 +1,7 @@
-package com.krishna;
+package com.krishna.service;
 
 
-import com.krishna.Student;
+import com.krishna.model.Student;
 import lombok.Getter;
 
 import java.util.ArrayList;

@@ -1,4 +1,4 @@
-package com.krishna;
+package com.krishna.model;
 
 import java.util.Objects;
 import java.util.Random;

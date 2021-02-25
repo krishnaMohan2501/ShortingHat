@@ -1,6 +1,6 @@
-package com.krishna.exception;
+package com.krishna;
 
-import com.krishna.Student;
+import com.krishna.model.Student;
 import com.krishna.service.RegistrationService;
 
 import java.util.List;

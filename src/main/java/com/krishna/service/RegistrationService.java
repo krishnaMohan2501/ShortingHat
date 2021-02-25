@@ -1,8 +1,7 @@
-package com.krishna;
+package com.krishna.service;
 
-import com.krishna.HouseService;
-import com.krishna.InvalidCapacityException;
-import com.krishna.Student;
+import com.krishna.exception.InvalidCapacityException;
+import com.krishna.model.Student;
 import lombok.Getter;
 
 import java.util.LinkedList;

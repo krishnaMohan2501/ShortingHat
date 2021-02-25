@@ -1,4 +1,4 @@
-package com.krishna;
+package com.krishna.exception;
 
 
 
